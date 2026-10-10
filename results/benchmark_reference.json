@@ -1,0 +1,8 @@
+{
+  "dataset": "CICIoT2023",
+  "reported_accuracy": "> 99%",
+  "reported_f1_score": "~0.99",
+  "reported_model_types": ["Random Forest", "LightGBM", "Neural Network"],
+  "source": "CICIoT2023 paper and benchmark documentation",
+  "notes": "Top-performing models report near-perfect detection metrics on the standardized benchmark."
+}
